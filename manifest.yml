@@ -1,0 +1,7 @@
+applications:
+- name: Employee-demo
+path: target/employee-demo-0.0.1-SNAPSHOT.jar
+domain: cfapps.io
+memory: 670M
+instances: 1
+
